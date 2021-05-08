@@ -1,14 +1,19 @@
 {
   "expo": {
-    "name": "sushi",
+    "name": "MySushi",
     "slug": "sushi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "sdkVersion": "40.0.0",
+    "platforms": [
+       "ios",
+       "android"
+     ],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0C0D34"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
