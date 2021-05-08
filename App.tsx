@@ -1,3 +1,5 @@
+// Engineer: Felix Odor
+
 import { StatusBar } from 'expo-status-bar';
 import * as React from 'react';
 import { ThemeProvider } from '@shopify/restyle';
