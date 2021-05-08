@@ -9,7 +9,6 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { Feather as Icon } from "@expo/vector-icons";
 
 
-
 // Custom Components
 import Header from './src/components/Header';
 import { theme, LoadAssets, Box, Text, CategoriesItem, TopSushiItem } from './src/components';
