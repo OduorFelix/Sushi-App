@@ -5,7 +5,7 @@ This is a React Native (Cross-Platform) Sushi App for a modern-day restaurant!
 
 The Main Screens are
 
-![Screenshot](Sushi App.png)
+![Screenshot](Sushi-App.png)
 
 
 Tech Stack Used:
