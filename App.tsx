@@ -195,7 +195,8 @@ function DetailsScreen({ route, navigation }: any) {
           <Box justifyContent="center" alignItems="center" marginTop="m">
             <Image
               source={item.image}
-              style={{height: 200, width: 200}}
+              style={{ height: 200, width: 200 }}
+              resizeMode="contain"
             />
           </Box>
 
