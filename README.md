@@ -12,7 +12,7 @@ Tech Stack Used:
 1. `Expo`
 2. `Typescript`
 
-To Tun in your local environment:
+To Run in your local environment:
 
 1. Clone the repo
 2.In your terminal, run `yarn install`
